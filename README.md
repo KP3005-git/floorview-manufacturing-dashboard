@@ -105,3 +105,9 @@ settings. Do not claim measured client savings or production deployment for this
 Possible next improvement: replace the sample generator with a SQL Server data
 repository and parameterized date/shift queries. That would require a separate
 database setup and validation.
+
+## More portfolio work
+
+- [SQL-to-Excel reporting automation](sql-to-excel-reporting/): a C# exporter
+  with a reusable Excel template, date and shift filters, parameterized SQL
+  extraction, and a tested sample-data workflow.

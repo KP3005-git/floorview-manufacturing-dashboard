@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+.vs/
+*.user
+*.tmp
+Shift2_Report.xlsx
+Sql_Report.xlsx
+*.inspect.ndjson

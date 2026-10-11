@@ -1,0 +1,14 @@
+# Local compiled output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# IDE and user-specific files
+.vs/
+*.user
+*.suo
+
+# Local export files (the sample dataset is committed)
+production-*.csv
